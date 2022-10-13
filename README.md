@@ -58,3 +58,14 @@ Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu 
 - Owner Name 
 - Bot Name 
 ---------
+## For Termux
+```ts
+termux-setup-storage
+apt update && apt upgrade
+pkg install nodejs git ffmpeg libwebp imagemagick
+git clone https://github.com/LaxirMods/WH-Laxir-Mods.git
+cd WH-Laxir-Mod
+pkg install yarn
+yarn
+npm start
+```
