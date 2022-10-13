@@ -95,7 +95,7 @@ global.owner = [
 ] // Put your number here
 global.mods = [6285332039348] // Want some help?
 global.prems = [625332039348] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
-.addprems @user 10
+global.addprems = [625332039348]
 
 /*============== API ==============*/
 global.APIs = { // API Prefix
