@@ -67,7 +67,7 @@ global.ppulsa2 = '-' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '625752271870'
+global.nomorbot = '6285752271870'
 global.nomorown = '6285332039348'
 global.namebot = 'Laxir'
 global.nameown = 'Laxir0ne'
@@ -95,7 +95,7 @@ global.owner = [
 ] // Put your number here
 global.mods = [6285332039348] // Want some help?
 global.prems = [625332039348] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
-.addprems [6285332039348]
+.addprems @user 10
 
 /*============== API ==============*/
 global.APIs = { // API Prefix
