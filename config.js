@@ -53,7 +53,7 @@ global.sig = 'https://instagram.com/drizasri' // ig
 global.sgh = 'https://github.com/LaxirMods' // github
 global.sgc = '-' // group whatsapp
 global.sdc = '-'//discord
-global.snh = '-' // my youtube channel
+global.snh = 'https://youtube.com/channel/UC4KkbFZ15ILdDhLJeytnFDw' // my youtube channel
 global.sfb = '-' // facebook
 global.syt = '-' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
